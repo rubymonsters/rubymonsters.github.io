@@ -36,7 +36,7 @@ body {
 
 article {
   max-width: 55rem;
-  margin: 5rem auto;
+  margin: 5rem auto 0rem auto;
   padding: 2rem 5rem;
   background: #fff;
 }
@@ -67,18 +67,44 @@ h4 {
   font-weight: bold;
 }
 
+footer {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+footer ul {
+  display: inline-block;
+  margin: 0;
+}
+
+footer li {
+  display: inline-block;
+  padding: 0 1rem;
+  font-size: 0.9rem;
+}
+
+footer a {
+  color: #999;
+  text-decoration: none;
+}
+
 #index:before {
-  position: relative;
   content: "";
+  position: relative;
   display: block;
+  z-index: 2;
   width: 250px;
   height: 250px;
   margin: 5rem auto 2rem auto;
   background: url(/images/monstas.jpg);
   background-size: 100%;
   border: 1em solid #fff;
-  border-radius: 1.5rem;
-  box-shadow: 0px 2px 2px rgba(136, 153, 166, 0.5);
+
+  -webkit-box-shadow: 0px 2px 2px rgba(136, 153, 166, 0.5);
+     -moz-box-shadow: 0px 2px 2px rgba(136, 153, 166, 0.5);
+          box-shadow: 0px 2px 2px rgba(136, 153, 166, 0.5);
+  -moz-border-radius: 1.5rem;
+       border-radius: 1.5rem;
 }
 #index article {
   margin-top: -9rem;
@@ -90,3 +116,21 @@ h4 {
   text-align: center;
 }
 
+.paper {
+  position: relative;
+}
+.paper:after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 10%;
+  bottom: 0;
+  left: 10px;
+  right: 10px;
+
+  -webkit-box-shadow: 0 0 20px rgba(0,0,0,0.5);
+     -moz-box-shadow: 0 0 20px rgba(0,0,0,0.5);
+          box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  -moz-border-radius: 100px / 8px;
+       border-radius: 100px / 8px;
+}
