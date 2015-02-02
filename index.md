@@ -12,7 +12,7 @@ our homepage.
 We are one of many project groups in the [Berlin Rails Girls](http://railsgirlsberlin.de)
 community, some of which [can be found here](http://railsgirlsapp.shellyapp.com).
 
-We meet every **Monday at 7pm** at the [Ganz oben office](/location.html).
+We meet every **Monday at 7pm** at the [Ganz oben office](/location.html) (the office on the very top floor).
 
 If you identify as a woman, and want to learn programming Ruby, learn how to
 build a web application, or are otherwise interested in joining or supporting
@@ -22,12 +22,12 @@ any of our groups, then feel free to come by, or get in touch via
 At the moment there are around 20 people joining on a normal Monday, splitting
 up into 4 groups, and supported by 5 coaches:
 
-* A beginners group, learning the [basics of programming in Ruby](http://ruby-for-beginners.rubymonstas.org)
+* A beginners group, learning the [basics of programming in Ruby](http://ruby-for-beginners.rubymonstas.org);
 * An intermediate group, building their first web application as a shared
-  learning project
+  learning project;
 * An advanced group, maintaining [Speakerinnen](https://www.speakerinnen.org)
-  and learning about more advanced topics
-* A Clojure group, mixed skills levels
+  and learning about more advanced topics;
+* A Clojure group, mixed skills levels.
 
 
 People like to bring snacks which will be shared during the breaks.
