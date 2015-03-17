@@ -27,7 +27,7 @@ up into 4 groups, and supported by 5 coaches:
   learning project;
 * An advanced group, maintaining [Speakerinnen](https://www.speakerinnen.org)
   and learning about more advanced topics;
-* A Clojure group, mixed skills levels.
+* A [Clojure group](http://cljart.github.io/), mixed skills levels.
 
 
 People like to bring snacks which will be shared during the breaks.
