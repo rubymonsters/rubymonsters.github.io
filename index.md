@@ -35,7 +35,7 @@ People like to bring snacks which will be shared during the breaks.
 ## Resources
 
 * [Our Github organization](https://github.com/rubymonsters)
-* [Our Twitter account](https://twitter.com/rubymonsters)
+* [Our Twitter account](https://twitter.com/rubymonstas)
 * [Our mailinglist](https://groups.google.com/forum/#!forum/rubymonstaaa)
 * [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org) - Our beginner group's curriculum
 * [Tips for coaches](http://coaching.rubymonstas.org)
