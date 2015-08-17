@@ -12,20 +12,29 @@ our homepage.
 We are one of many project groups in the [Berlin Rails Girls](http://railsgirlsberlin.de)
 community, some of which [can be found here](http://railsgirlsapp.shellyapp.com).
 
-We meet every **Monday at 7pm** at the [Ganz oben office](/location.html) (the office on the very top floor).
+We meet every **Monday at 7pm** at the [Ganz oben office](/location.html) (the
+office on the very top floor).
 
 If you identify as a woman, and want to learn programming Ruby, learn how to
 build a web application, or are otherwise interested in joining or supporting
 any of our groups, then feel free to come by, or get in touch via
 [email](mailto:ruby.monsters@gmail.com).
 
+Please feel invited to come visit, **no matter what level** you are on, or what
+previous experience with programming or technology you have. There are people
+on all kinds of levels, ranging from beginners with no previous experience to
+quite advanced members who now work in developer positions:
+
+**Everyone is welcome. Please join us.**
+
 At the moment there are around 20 people joining on a normal Monday, splitting
 up into 4 groups, and supported by 5 coaches:
 
 * A beginners group, learning the [basics of programming in Ruby](http://ruby-for-beginners.rubymonstas.org);
-* An intermediate group, building their first web application as a shared
+* An intermediate group, learning the [basics of building a web application](http://webapps-for-beginners.rubymonstas.org);
+* An advanced intermediate group, building their first web application as a shared
   learning project;
-* An advanced group, maintaining [Speakerinnen](https://www.speakerinnen.org)
+* A more advanced group, maintaining [Speakerinnen](https://www.speakerinnen.org)
   and learning about more advanced topics;
 * A [Clojure group](http://cljart.github.io/), mixed skills levels.
 
@@ -38,6 +47,7 @@ People like to bring snacks which will be shared during the breaks.
 * [Our Twitter account](https://twitter.com/rubymonstas)
 * [Our mailinglist](https://groups.google.com/forum/#!forum/rubymonstaaa)
 * [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org) - Our beginner group's curriculum
+* [Webapps For Beginners](http://webapps-for-beginners.rubymonstas.org) - Our intermediate group's curriculum
 * [Tips for coaches](http://coaching.rubymonstas.org)
 
 ## Projects
