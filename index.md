@@ -53,6 +53,7 @@ People like to bring snacks which will be shared during the breaks.
 ## Projects
 
 * [50percent](https://github.com/rubymonsters/fiftyprocent) - Our intermediate group's learning project
+* [Diversity Tickets](https://diversitytickets.org) - Our intermediate/advanced group's learning project
 * [Speakerinnen Liste](https://www.speakerinnen.org) - Our advanced group's learning project
 
 
