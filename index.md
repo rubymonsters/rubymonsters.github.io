@@ -10,7 +10,7 @@ Ruby Monstas stands for *(Berlin) Ruby Monday Study Group'stas*, and this is
 our homepage.
 
 We are one of many project groups in the [Berlin Rails Girls](http://railsgirlsberlin.de)
-community, some of which [can be found here](http://railsgirlsapp.shellyapp.com).
+community, some of which [can be found here](https://rorganize.it/).
 
 We meet every **Monday at 7pm** at the [Ganz oben office](/location.html) (the
 office on the very top floor).
