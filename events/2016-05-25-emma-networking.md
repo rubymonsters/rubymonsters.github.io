@@ -39,4 +39,3 @@ music way too loud, climbs up walls, and works remotely as an engineer for
 [Travis CI](https://travis-ci.com) from the beautiful tropical paradise of
 Pittsburgh, Pennsylvania in the USA. You can usually find Emma with the
 username "emdantrim".
-
