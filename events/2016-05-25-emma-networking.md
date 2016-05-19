@@ -8,7 +8,7 @@ layout: default
 <div id="talk-meta">
   <ul>
     <li>When: Wednesday, May 25th, 8:00pm</li>
-    <li>Where: <a href="">Wooga</a></li>
+    <li>Where: <a href="https://goo.gl/maps/JApmDWF9rxP2">Wooga</a></li>
     <li>Who: <a href="https://blog.travis-ci.com/2015-07-27-emma-joins-the-travis-ci-team/">Emma</a> (<a href="https://twitter.com/emdantrim">@emdantrim</a>)</li>
     <li>For: Rails Girls Berlin students, but everyone is invited!</li>
   </ul>
