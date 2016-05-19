@@ -134,3 +134,16 @@ footer a {
   -moz-border-radius: 100px / 8px;
        border-radius: 100px / 8px;
 }
+
+#talk-meta {
+  font-style: italic;
+}
+#talk-meta ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+#talk-meta ul li {
+  margin-left: 0;
+  padding-left: 0;
+  list-style-type: none;
+}
