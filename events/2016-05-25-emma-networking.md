@@ -23,13 +23,13 @@ many super-smart software developers don't know about. I really want to help us
 all get our heads out of the clouds so we can have a better understanding of
 computer networks work.
 
-After the talk, my hope is that you can answer questions like:
-What's an IP address?
-Wait--what, seriously?
-Okay, so how come that doesn't look like `google.com` _at all_?
-What does my home router **actually do**?
-What's a MAC address?
-Literally, how does any of this even?
+* After the talk, my hope is that you can answer questions like:
+* What's an IP address?
+* Wait--what, seriously?
+* Okay, so how come that doesn't look like `google.com` _at all_?
+* What does my home router **actually do**?
+* What's a MAC address?
+* Literally, how does any of this even?
 
 But mostly, I really want to show you why I think networks are totally rad. :)
 
