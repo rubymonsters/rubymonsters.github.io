@@ -88,7 +88,7 @@ footer a {
   text-decoration: none;
 }
 
-#index:before {
+#index:before, .logo:before {
   content: "";
   position: relative;
   display: block;
@@ -106,7 +106,7 @@ footer a {
   -moz-border-radius: 1.5rem;
        border-radius: 1.5rem;
 }
-#index article {
+#index article, .logo article {
   margin-top: -9rem;
   padding-top: 7rem;
 }
@@ -114,6 +114,14 @@ footer a {
   font-size: 4rem;
   margin: 3rem 0;
   text-align: center;
+}
+.logo h1 {
+  margin: 2rem 0;
+  text-align: center;
+}
+.logo h2 {
+  text-align: center;
+  margin: 2rem 0;
 }
 
 .paper {
@@ -135,14 +143,16 @@ footer a {
        border-radius: 100px / 8px;
 }
 
-#talk-meta {
+#event-meta {
+  padding: 0.25rem 2rem;
+  background-color: #f9f9f9;
   font-style: italic;
 }
-#talk-meta ul {
+#event-meta ul {
   margin-left: 0;
   padding-left: 0;
 }
-#talk-meta ul li {
+#event-meta ul li {
   margin-left: 0;
   padding-left: 0;
   list-style-type: none;

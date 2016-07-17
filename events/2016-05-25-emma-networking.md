@@ -5,7 +5,7 @@ layout: default
 
 # Networking: How do computers talk?
 
-<div id="talk-meta">
+<div id="event-meta">
   <ul>
     <li>When: Wednesday, May 25th, 8:00pm</li>
     <li>Where: <a href="https://goo.gl/maps/JApmDWF9rxP2">Wooga</a></li>
