@@ -32,7 +32,7 @@ up into 4-5 groups, supported by 5-6 coaches.
 
 * Our beginners groups study the [basics of programming in Ruby](http://ruby-for-beginners.rubymonstas.org).
 * The next level groups learn the [basics of building a web application](http://webapps-for-beginners.rubymonstas.org).
-* Advanced intermediate groups build their first web application as a shared learning project.
+* Advanced intermediate groups build their Rails application as a shared learning project.
 * More advanced groups maintain previously started projects (see below) and continue learning more advanced topics.
 * A frontend group focusses on implementing HTML and CSS for the [Diversity Tickets](https://diversitytickets.org/) project.
 * There also used to be a [Clojure group](http://cljart.github.io/) that has split into a separate group in the meanwhile.
