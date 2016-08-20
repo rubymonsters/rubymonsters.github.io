@@ -59,19 +59,19 @@ of them now have found jobs as developers or other tech related positions.
 * [Webapps for Beginners](http://webapps-for-beginners.rubymonstas.org) - Our intermediate group's curriculum
 * [Testing for Beginners](http://testing-for-beginners.rubymonstas.org) - An optional curriculum
 
-## Other Resources
-
-* [Our Github organization](https://github.com/rubymonsters)
-* [Our Twitter account](https://twitter.com/rubymonstas)
-* [Our mailinglist](https://groups.google.com/forum/#!forum/rubymonstaaa)
-* [Tips for coaches](http://coaching.rubymonstas.org)
-
 ## Projects
 
 * [Speakerinnen Liste](https://www.speakerinnen.org)
 * [Diversity Tickets](https://diversitytickets.org/)
 * [Slam Alphas](https://github.com/rubymonsters/slam-alphas)
 * [50percent](https://github.com/rubymonsters/fiftyprocent), superseded by [50percent](https://50prozent.speakerinnen.org/), now maintained by @tyranja
+
+## Other Resources
+
+* [Our Github organization](https://github.com/rubymonsters)
+* [Our Twitter account](https://twitter.com/rubymonstas)
+* [Our mailinglist](https://groups.google.com/forum/#!forum/rubymonstaaa)
+* [Tips for coaches](http://coaching.rubymonstas.org)
 
 ## Credits
 
