@@ -28,33 +28,50 @@ quite advanced members who now work in developer positions:
 **Everyone is welcome. Please join us.**
 
 At the moment there are around 20 people joining on a normal Monday, splitting
-up into 4 groups, and supported by 5 coaches:
+up into 4-5 groups, supported by 5-6 coaches.
 
-* A beginners group, learning the [basics of programming in Ruby](http://ruby-for-beginners.rubymonstas.org);
-* An intermediate group, learning the [basics of building a web application](http://webapps-for-beginners.rubymonstas.org);
-* An advanced intermediate group, building their first web application as a shared
-  learning project;
-* A more advanced group, maintaining [Speakerinnen](https://www.speakerinnen.org)
-  and learning about more advanced topics;
-* A [Clojure group](http://cljart.github.io/), mixed skills levels.
+* Our beginners groups study the [basics of programming in Ruby](http://ruby-for-beginners.rubymonstas.org).
+* The next level groups learn the [basics of building a web application](http://webapps-for-beginners.rubymonstas.org).
+* Advanced intermediate groups build their first web application as a shared learning project.
+* More advanced groups maintain previously started projects (see below) and continue learning more advanced topics.
+* A frontend group focusses on implementing HTML and CSS for the [Diversity Tickets](https://diversitytickets.org/) project.
+* There also used to be a [Clojure group](http://cljart.github.io/) that has split into a separate group in the meanwhile.
 
+Advanced students may coach beginners group, generally help with questions, or
+simply focus on learning advanced topics, and maintain their projects.
 
-People like to bring snacks which will be shared during the breaks.
+People like to bring snacks that will be shared during the breaks.
 
-## Resources
+We have close ties to the amazing [Rubycorns](http://rubycorns.club) (Lisa
+coaches our frontend group), other Rails Girls study groups in
+[Berlin](https://rorganize.it/groups?utf8=%E2%9C%93&city=Berlin), as well
+as the [Rails Girls Berlin](http://railsgirlsberlin.de/) community.
+
+## History
+
+Ruby Monstas has been founded on July 30th in 2012. About 150 people visited
+our group over the course of the years (we do not keep track properly). Many
+of them now have found jobs as developers or other tech related positions.
+
+## Our books
+
+* [Ruby for Beginners](http://ruby-for-beginners.rubymonstas.org) - Our beginner group's curriculum
+* [Webapps for Beginners](http://webapps-for-beginners.rubymonstas.org) - Our intermediate group's curriculum
+* [Testing for Beginners](http://testing-for-beginners.rubymonstas.org) - An optional curriculum
+
+## Other Resources
 
 * [Our Github organization](https://github.com/rubymonsters)
 * [Our Twitter account](https://twitter.com/rubymonstas)
 * [Our mailinglist](https://groups.google.com/forum/#!forum/rubymonstaaa)
-* [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org) - Our beginner group's curriculum
-* [Webapps For Beginners](http://webapps-for-beginners.rubymonstas.org) - Our intermediate group's curriculum
 * [Tips for coaches](http://coaching.rubymonstas.org)
 
 ## Projects
 
-* [50percent](https://github.com/rubymonsters/fiftyprocent) - Our intermediate group's learning project
-* [Speakerinnen Liste](https://www.speakerinnen.org) - Our advanced group's learning project
-
+* [Speakerinnen Liste](https://www.speakerinnen.org)
+* [Diversity Tickets](https://diversitytickets.org/)
+* [Slam Alphas](https://github.com/rubymonsters/slam-alphas)
+* [50percent](https://github.com/rubymonsters/fiftyprocent), superseded by [50percent](https://50prozent.speakerinnen.org/), now maintained by @tyranja
 
 ## Credits
 
