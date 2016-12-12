@@ -75,6 +75,7 @@ of them now have found jobs as developers or other tech related positions.
 
 ## Credits
 
+* Special thanks to [Avarteq](https://www.avarteq.com/) for hosting Rubymonstas for almost five years!
 * Artwork and avatar by the amazing [Rebecca](https://github.com/bioshrimp),
   one of our original study group members. Check out her
   [portfolio](http://www.ejaculesc.com/portfolio) <3
