@@ -12,8 +12,7 @@ our homepage.
 We are one of many project groups in the [Berlin Rails Girls](http://railsgirlsberlin.de)
 community, some of which [can be found here](https://rorganize.it/).
 
-We meet every **Monday at 7pm** at the [Ganz oben office](/location.html) (the
-office on the very top floor).
+We meet every **Monday at 7pm** at [the Travis CI office](/location.html).
 
 If you identify as a woman, and want to learn programming Ruby, learn how to
 build a web application, or are otherwise interested in joining or supporting
